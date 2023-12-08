@@ -1,0 +1,16 @@
+﻿2023-06-27 13:07:08,880 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-06-27 13:07:08,980 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-07-18 07:44:45,690 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-07-18 07:44:45,706 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-07-18 14:16:05,389 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-07-18 14:16:05,399 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-07-24 11:07:11,970 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-07-24 11:07:11,978 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-07-25 07:44:50,962 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-07-25 07:44:50,972 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-08-08 07:40:53,184 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-08-08 07:40:53,200 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-08-08 10:10:55,293 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-08-08 10:10:55,293 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
+2023-08-15 07:42:26,848 [ 4] INFO  EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > Entry
+2023-08-15 07:42:26,864 [ 4] ERROR EventWatcher - TerminalEmulatorLogFilesCleaner: performLogFilesCleanupProcess > filepath
